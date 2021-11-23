@@ -1,0 +1,9 @@
+body{
+    background-image: linear-gradient(90deg, rgba(3, 71, 1, 0.6), rgba(39, 172, 13, 0.7), rgb(253, 208, 5));
+}
+footer{
+    background-image: linear-gradient(90deg, rgba(4, 81, 248, 0.6), rgb(255, 255, 255), rgb(255, 0, 0));
+}
+section{
+    margin-bottom:10px;
+}
